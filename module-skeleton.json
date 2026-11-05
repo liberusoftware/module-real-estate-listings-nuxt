@@ -1,0 +1,15 @@
+{
+  "repository": "module-real-estate-listings-nuxt",
+  "capabilityKey": "liberusoftware/real-estate-listings",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-real-estate-listings-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/real-estate/nextjs/listings.md",
+  "presentationPlan": "projects/real-estate/nuxt/listings.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "real-estate"
+  ]
+}
